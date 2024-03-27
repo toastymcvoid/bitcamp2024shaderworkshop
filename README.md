@@ -1,5 +1,5 @@
 # Bitcamp 2024 Shaders in Three.js Workshop
-
+![workshopimg](image.png)
 Andy Qu <br>
 *University of Maryland, College Park* <br>
 *Department of Computer Science*
